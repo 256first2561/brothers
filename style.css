@@ -1,0 +1,80 @@
+body {
+	background:#F0FFFF;
+	font-size:40px;
+}
+header {
+	background-color:#D3D3D3;
+	padding:20px;
+	margin-top:0px;
+	 margin-bottom:10px;
+}
+.for-ser, .for-max {
+	padding:40px;
+	background-color:#7FFFD4;
+	margin-top:10px;
+	text-align:center;
+}
+.for-ser .ser, .for-max .max {
+	color:#006400;
+	font-size:60px;
+}
+h1 {
+	vertical-align:middle;
+	text-align:center;
+}
+aside {
+	padding: 30px;
+	background-color: #9370DB;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 60px;
+}
+
+footer{
+	text-align:center;
+	background-color: #D3D3D3;
+	padding:15px;
+	margin-top:10px;
+}
+a {
+	background-color:#FF6347;
+	text-decoration:none;
+	padding:10px;
+	border-radius:20px;
+}
+.prav1, .prav2, .prav3, .prav4 {
+	background-color:black;
+}
+.prav1 {
+	padding-top:400px;
+	padding-bottom:200px;
+}
+.prav1 a {
+	margin-left:900px;
+}
+.prav2 {
+	padding-top:200px;
+	padding-bottom:400px;
+}
+.prav2 a {
+	margin-left:400px;
+}
+.prav3 {
+	padding-top:500px;
+	padding-bottom:100px;
+}
+.prav3 a {
+	margin-left:1200px;
+}
+
+.prav4 {
+	padding-top:100px;
+	padding-bottom:500px;
+}
+.prav4 a {
+	margin-left:1400px;
+}
+h2{
+	font-size:200px;
+	text-align:center;
+}
